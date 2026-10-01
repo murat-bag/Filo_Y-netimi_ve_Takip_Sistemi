@@ -10,7 +10,7 @@ Projenin hedefleri:
 - Planı araç bazında göstermek ve kaydetmek
 - Kaydedilen verilerle geçmiş rotaları  göstermek
 
-## 2. Sistemin Çalışma Akışı
+## Sistemin Çalışma Akışı
 
 Sistemi kullanacak firmadan şu veriler istenir:
 - Depo bilgileri
